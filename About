@@ -1,0 +1,13 @@
+🚀 Assignment 6 Completed: Security Audit of Internee.pk’s Website
+Over the past few days, I worked on performing a security audit to identify vulnerabilities and strengthen the security posture of Internee.pk. The focus was on ensuring data protection and preventing common cyber threats. 🔒
+🔍 Key Areas Tested
+ ✅ Login Pages & User Profiles
+ ✅ APIs & Critical Web Endpoints
+ ✅ Vulnerability Scanning with OWASP ZAP & Burp Suite
+⚡ Vulnerabilities Explored
+ 💻 SQL Injection (SQLi) – manipulating queries to bypass authentication & extract data
+ 🌐 Cross-Site Scripting (XSS) – injecting malicious scripts into web pages
+ 🛡️ Cross-Site Request Forgery (CSRF) – exploiting authenticated sessions to perform unauthorized actions
+🧑‍💻 To practice and simulate real-world attacks, I also used OWASP Juice Shop, a deliberately vulnerable web application designed for security training.
+🔑 Takeaway: Security is not optional — it’s a necessity. Proactively identifying and fixing vulnerabilities helps protect users, data, and organizational trust.
+hashtag#CyberSecurity hashtag#PenetrationTesting hashtag#WebSecurity hashtag#OWASP hashtag#SQLInjection hashtag#XSS hashtag#CSRF hashtag#BugBounty hashtag#EthicalHacking hashtag#InfoSec hashtag#DataProtection
